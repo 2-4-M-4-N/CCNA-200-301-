@@ -1,5 +1,7 @@
 
 # Day 02 (Interfaces and Cables)
+[Free CCNA | Interfaces and Cables | Day 2 | CCNA 200-301 Complete Course
+](https://youtu.be/ieTH5lVhNaY?si=kXJC40_HKGMSAQLM)
 
 ![image.png](image.png)
 
@@ -156,14 +158,6 @@ There are two types of Ports into Networks
 
 ![image.png](image%2016.png)
 
-| **MDI (Medium Dependent Interface)** | **MDI-X (Medium Dependent Interface - Crossover)** |
-| --- | --- |
-| • Pin 1,2 (Transmit) = Tx (this pin transfer data)
-• Pin 3,6 (Receive) = Rx (this pin receives data) | • Pin 3, 6 = **Transmit (Tx)**
-• Pin 1, 2 = **Receive (Rx)** |
-| These kinds of Ports always uses PC, Router, Servers | These kind of Ports always uses on Switch and Hub. |
-| Router Transmit(TX) data on Pins (1-2) | Switches Receive(RX) data on Pins (1-2) |
-| Router Receive(RX) data on Pins (3,6) | Switches Transmit(TX) data on Pins (3,6) |
 
 > Routers and PCs connect the same way with Switches.
 > 
