@@ -1,4 +1,6 @@
 # Day 02 (Interfaces and Cables)
+[Free CCNA | Interfaces and Cables | Day 2 | CCNA 200-301 Complete Course
+](https://youtu.be/ieTH5lVhNaY?si=wlcZD5agL0IHl3OG)
 
 ![image.png](image.png)
 
