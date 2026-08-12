@@ -318,3 +318,55 @@ In the picture below Center represents the fiber glass core and blue represents 
 | Vulnerable to EMI (Electromagnetic Interference) | No vulnerability to EMI. |
 | RJ45 ports used with UTP are cheaper than SFP ports. | SFP ports are more expensive than RJ45 ports (single-mode is more expensive than multimode). |
 | Emit (Leak) small signal outside of cable, which can be copied (security risk like eavesdropping). | Does not emit any signal outside of the cable (no security risk). |
+
+---
+
+## Quiz
+
+**Question-1:**
+
+![image.png](image%2030.png)
+
+![image.png](image%2031.png)
+
+![image.png](image%2032.png)
+
+**Question-2:**
+
+![image.png](image%2033.png)
+
+![image.png](image%2034.png)
+
+![image.png](image%2035.png)
+
+![image.png](image%2036.png)
+
+**Question-3:**
+
+![image.png](image%2037.png)
+
+![image.png](image%2038.png)
+
+![image.png](image%2039.png)
+
+![image.png](image%2040.png)
+
+**Question-4:**
+
+![image.png](image%2041.png)
+
+![image.png](image%2042.png)
+
+![image.png](image%2043.png)
+
+![image.png](image%2044.png)
+
+**Question-05:**
+
+![image.png](image%2045.png)
+
+![image.png](image%2046.png)
+
+![image.png](image%2047.png)
+
+---
