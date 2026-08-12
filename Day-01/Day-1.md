@@ -1,6 +1,7 @@
 # Day 1
 
-[Free CCNA | Network Devices | Day 1 | CCNA 200-301 Complete Course](https://youtu.be/H8W9oMNSuwo?si=pJY6wYNqUtZwh63q)
+[Free CCNA | Interfaces and Cables | Day 2 | CCNA 200-301 Complete Course
+](https://youtu.be/ieTH5lVhNaY?si=kXJC40_HKGMSAQLM)
 
 ![image.png](image.png)
 
