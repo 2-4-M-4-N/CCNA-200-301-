@@ -1,5 +1,5 @@
-# Untitled
-
+# Subnetting Concept
+[video link](https://youtu.be/BMhPOGnckeg?si=qOBId6jkgPFSIBEo)
 ## A Given IP address (192.168.10.5/28)
 
 **Question** is:
