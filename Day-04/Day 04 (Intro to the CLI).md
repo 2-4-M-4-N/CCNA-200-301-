@@ -29,10 +29,11 @@ Another way their exist like Remote connection.
 
 Rollover cable is a specialized networking cable, which primarily used to connect a computer or laptop to router or switch to the console or configuration port for make any configuration (such as Cisco devices).
 
-![This is the image of Cisco Catalyst Switch. 
+![This is the image of Cisco Catalyst Switch.)](image%202.png)
+This is the image of Cisco Catalyst Switch.
 There are two console ports.
   1. USB Mini-B
-  2.  RJ45 (just like switches network ports)](image%202.png)
+  2.  RJ45 (just like switches network ports
 
 This is the image of Cisco Catalyst Switch. 
 There are two console ports.
@@ -278,9 +279,7 @@ This number 7 indicates the encryption type used for encrypt the password
 
 While this is less secure algorithm. 
 
-To secure more strong method is better to use, 
-
-`enable secret` 
+To secure more strong method is better to use, `enable secret` 
 
 ![image.png](image%2025.png)
 
