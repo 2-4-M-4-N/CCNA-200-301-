@@ -1,5 +1,7 @@
 # Day 05
 
+[Free CCNA | Ethernet LAN Switching (Part 1) | Day 5 | CCNA 200-301 Complete Course](https://youtu.be/u2n762WG0Vo?si=kyyeMlMESKyGQPtN)
+
 # Ethernet LAN switching
 
 ![image.png](image.png)
